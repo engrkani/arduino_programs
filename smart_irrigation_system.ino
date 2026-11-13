@@ -79,7 +79,7 @@
  * - Audible fault indication
  * - Maximum pump runtime protection
  * - Water-efficient irrigation operation
- *
+ * Design By Engr. Kani
  */
 
 #include <Wire.h>
