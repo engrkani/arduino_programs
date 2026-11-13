@@ -28,6 +28,14 @@ void setup() {
   lcd.print("SOLAR TRACKER");
   delay(2000);
   lcd.clear();
+
+  lcd.init();
+  lcd.backlight();
+  lcd.setCursor(0, 0);
+  lcd.print("DESIGN BY");
+  lcd.print("ENGR. KANI");
+  delay(2000);
+  lcd.clear();
 }
 
 void loop() {
