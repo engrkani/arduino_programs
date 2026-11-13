@@ -1,4 +1,4 @@
-
+/* Design of Smart Solar Tracker by Engr. Kani*/
 
 #include <Servo.h>
 #include <Wire.h>
